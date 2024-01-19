@@ -1,0 +1,41 @@
+body {
+  font-family: RANDOM_FONT;
+  background-color: RANDOM_BACKGROUND_COLOR;
+}
+
+header,
+nav,
+main,
+footer {
+  padding: RANDOM_PADDING;
+  margin-bottom: RANDOM_MARGIN;
+  background-color: RANDOM_SECTION_COLOR;
+  color: RANDOM_TEXT_COLOR;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: RANDOM_FONT;
+  color: RANDOM_HEADING_COLOR;
+}
+
+p {
+  font-family: RANDOM_FONT;
+  font-size: RANDOM_FONT_SIZE;
+  color: RANDOM_TEXT_COLOR;
+}
+
+img {
+  width: RANDOM_IMAGE_WIDTH;
+  height: RANDOM_IMAGE_HEIGHT;
+}
+
+#try-again {
+  margin-top: 20px;
+}
+
+/* css, more like crappy smelly stinky */ 
